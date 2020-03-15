@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/soap/model/Product.java=UTF-8
+encoding//src/com/soap/service/ProductServiceImpl.java=UTF-8
+encoding//src/com/soap/service/ProductServiceImplService.java=UTF-8
+encoding//src/com/soap/service/ProductServiceImplServiceLocator.java=UTF-8
+encoding//src/com/soap/service/ProductServiceImplSoapBindingStub.java=UTF-8
